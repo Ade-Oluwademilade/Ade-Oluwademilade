@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oluwademilade
+- 👀 I’m interested in becoming a Full Stack Developer
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on software engineering projects
+- 📫 How to reach me ... Email: Adeyemo503@gmail.com
